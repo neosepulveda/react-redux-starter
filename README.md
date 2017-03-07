@@ -1,6 +1,6 @@
 # react-redux-starter
 
-This repo is cloned from [ReduxSimpleStarter](https://StephenGrider/ReduxSimpleStarter). Thanks [Stephen Grider](https://StephenGrider)
+This repo is cloned from [ReduxSimpleStarter](https://github.com/StephenGrider/ReduxSimpleStarter). Thanks [Stephen Grider](https://github.com/StephenGrider)
 
 ###Getting Started###
 ```
